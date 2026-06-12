@@ -1,6 +1,6 @@
 # RunningAddon
 
-This add-on helps you animate TF2 characters using the three default animation cycles: `run_PRIMARY`, `run_SECONDARY`, and `run_MELEE`. It also features an easy-to-use path-creation tool for controllable movement.
+This add-on helps you animate TF2 characters using the three default walk animations: `run_PRIMARY`, `run_SECONDARY`, and `run_MELEE`. It also features an easy-to-use path-creation tool for controllable movement.
 
 *Note: This add-on is in an early stage of development. Some features may be missing or might not work as intended, but this does not affect the core functionality.*
 
