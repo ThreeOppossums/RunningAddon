@@ -5,7 +5,7 @@ This add-on helps you animate TF2 characters using the three default walk animat
 *Note: This add-on is in an early stage of development. Some features may be missing or might not work as intended, but this does not affect the core functionality.*
 
 ## Version
-1.0.0
+1.0.0 (Up to Blender 4.5.0)
 
 ## Features
 - **Path Creation:** Create paths for the character by placing markers.
